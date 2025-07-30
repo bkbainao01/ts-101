@@ -10,5 +10,5 @@ class Human {
 
 const user1 : any = new Human();
 user1.firstname = 'Sirimanee Pimkaew';
-user1.age = 65
+user1.age = 26
 console.log(user1.sayHello())
